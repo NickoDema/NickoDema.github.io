@@ -1,0 +1,18 @@
+[submodule "themes/rocktopus"]
+	path = themes/rocktopus
+	url = https://github.com/esell/rocktopus.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/academic"]
+	path = themes/academic
+	url = https://github.com/gcushen/hugo-academic.git
+[submodule "themes/mainroad"]
+	path = themes/mainroad
+	url = https://github.com/Vimux/Mainroad.git
+[submodule "themes/ga"]
+	path = themes/ga
+	url = https://github.com/giraffeacademy/ga-hugo-theme.git
+[submodule "themes/crab"]
+	path = themes/crab
+	url = https://github.com/thomasheller/crab.git

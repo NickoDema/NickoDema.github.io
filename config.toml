@@ -1,0 +1,25 @@
+baseURL = "http://nickodema.github.io"
+languageCode = "en-us"
+title = "Nikolay Dema"
+theme = "ga" # "mainroad" "nofancy" "ananke" "rocktopus"
+#theme = "crab"
+#theme = "mainroad"
+#theme = "nofancy"
+#theme = "ananke"
+#theme = "rocktopus"
+paginate = "10" # Number of posts per page
+
+[Author] # Used in authorbox
+  name = "KOLYASIK"
+  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+  avatar = "img/avatar.png"
+
+[params]
+  AuthorName = "Jon Doe"
+  GitHubUser = "spf13"
+  ListOfFoo = ["foo1", "foo2"]
+  SidebarRecentLimit = 5
+  Subtitle = ""
+
+[permalinks]
+  posts = "/:year/:month/:title/"
